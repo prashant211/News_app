@@ -22,3 +22,5 @@ A flutter App  that basically display the daily news to users
 ![Screenshot_2024-01-29-16-51-11-22_a467d51f7ea0378ee50edb6aac94ed60](https://github.com/prashant211/News_app/assets/108564234/d6a40115-1730-492f-a99a-ab15303e471e)
 
 ## Demo video
+
+https://github.com/prashant211/News_app/assets/108564234/5ec13134-6bd9-49ce-99b6-08206cd27a3d

@@ -1,16 +1,18 @@
-# news_app
+# Hi, I'm Prashant! ✋
 
-A new Flutter project.
 
-## Getting Started
+# News APP
 
-This project is a starting point for a Flutter application.
+A flutter App  that basically display the daily news to users
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Users can view the news according to the category they like like sports news,health 
+  news,buisness news
+- Horizontal scroll view, Slider
+- Beautiful landing page,trending news,breking news
+
+
+
+## Screenshots
